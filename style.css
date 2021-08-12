@@ -374,16 +374,19 @@ section .title::after{
 .skills-content .right .c::before{
     width: 70%;
 }
-.skills-content .right .msexcel::before{
-    width: 60%;
+.skills-content .right .Jquery::before{
+    width: 70%;
 }
-.skills-content .right .msppt::before{
+.skills-content .right .MySQL::before{
+    width: 50%;
+}
+.skills-content .right .Bootstrap::before{
     width: 80%;
 }
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "what i have done";
 }
 .teams .carousel .card{
     background: #222;
