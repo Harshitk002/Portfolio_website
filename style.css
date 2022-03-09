@@ -372,16 +372,19 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .c::before{
-    width: 70%;
+    width: 90%;
 }
 .skills-content .right .Jquery::before{
     width: 70%;
 }
 .skills-content .right .MySQL::before{
-    width: 50%;
+    width: 80%;
 }
 .skills-content .right .Bootstrap::before{
     width: 80%;
+}
+.skills-content .right .ML::before{
+    width: 70%;
 }
 
 /* wk section styling */
